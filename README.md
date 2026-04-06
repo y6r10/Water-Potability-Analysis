@@ -65,8 +65,5 @@ jupyter notebook Water_Quality_ML_Pipeline.ipynb
 - Deploy as web app
 - Real-time prediction system
 
-## Author
-Your Name
-
 ## License
 This project is open-source and available under the MIT License.
