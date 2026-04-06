@@ -1,0 +1,5 @@
+Model,Best Params,Accuracy,Precision,Recall,F1
+KNN,"{'clf__n_neighbors': 14, 'clf__p': 2, 'clf__weights': 'uniform'}",0.5991861648016277,0.45454545454545453,0.14360313315926893,0.21825396825396826
+Decision Tree,"{'clf__max_depth': 5, 'clf__min_samples_leaf': 2, 'clf__min_samples_split': 2}",0.595116988809766,0.39436619718309857,0.0731070496083551,0.12334801762114538
+SVC,"{'clf__C': 1, 'clf__gamma': 'scale', 'clf__kernel': 'rbf'}",0.612410986775178,0.5208333333333334,0.06527415143603134,0.11600928074245939
+Random Forest,"{'clf__max_depth': None, 'clf__min_samples_split': 5, 'clf__n_estimators': 200}",0.6561546286876907,0.616580310880829,0.31070496083550914,0.4131944444444444
