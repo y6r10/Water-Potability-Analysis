@@ -56,7 +56,7 @@ jupyter notebook Water_Quality_ML_Pipeline.ipynb
 ```
 ├── Water_Quality_ML_Pipeline.ipynb
 ├── README.md
-└── output.csv
+└── water_quality_model_results.csv
 ```
 
 ## Future Improvements
